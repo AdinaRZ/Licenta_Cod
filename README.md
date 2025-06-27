@@ -80,17 +80,20 @@ Licenta/
 
 ## Funcționalități testate
 
-- Afișare în timp real a temperaturii și umidității
+- Afișare în timp real a temperaturii și umidității (interior și exterior)
 - Detectare automată a ploii și închiderea geamurilor
-- Control LED-uri (becuri), a geamurilor, a accesului din aplicație
-- Acces controlat prin RFID
+- Control LED-uri (becuri), a geamurilor și a accesului din aplicație
+- Acces controlat prin RFID, cu resetare automată a accesului după 30 de secunde
+- Trimiterea unei notificări în aplicație în momentul în care accesul este permis
+- Fiecare cont de proprietar poate gestiona mai mulți locatari
+- Proprietarul poate genera un nou cod al casei, caz în care toți locatarii anteriori sunt șterși automat
 - Securitate Firebase și actualizare date în timp real
 
 ## Schema hardware
 
 Schema completă a sistemului este disponibilă în:
 
-📁 `hardware/schema_electrica.pdf`
+`Schema_hardware/Schema Hardware.pdf`
 
 Aceasta include:
 - Toate conexiunile între componente și microcontrolere
