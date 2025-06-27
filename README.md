@@ -22,7 +22,7 @@ Acest proiect reprezintă o soluție completă de tip **smart home**, dezvoltat�
 ## Repository Git
 
 Adresa repository-ului:  
-`https://github.com/AdinaRZ/CodLicenta`  
+`https://github.com/AdinaRZ/Licenta_Cod`  
 
 ## Structura proiectului
 
@@ -54,7 +54,7 @@ Licenta/
 1. Instalează [Flutter SDK](https://docs.flutter.dev/get-started/install).
 2. Clonează repository-ul:
    ```bash
-   git clone https://github.com/AdinaRZ/CodLicenta
+   git clone https://github.com/AdinaRZ/Licenta_Cod
    cd Licenta/aplicatie_mobila
    ```
 3. Instalează dependențele necesare:
