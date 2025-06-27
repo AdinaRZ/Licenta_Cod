@@ -1,5 +1,5 @@
 
-# Smart Home – Sistem Automatizat de Monitorizare și Control
+# AS Home – Sistem Automatizat de Monitorizare și Control
 
 ## Descriere generală
 
@@ -28,7 +28,7 @@ Adresa repository-ului:
 
 ```
 Licenta/
-├── aplicatie_mobila/         # Codul aplicației Flutter
+├── Cod_Aplicatie_mobila/         # Codul aplicației Flutter
 │   ├── lib/
 │   ├── assets/
 │   └── pubspec.yaml
