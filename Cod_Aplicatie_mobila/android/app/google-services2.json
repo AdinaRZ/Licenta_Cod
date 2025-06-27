@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "519342639147",
+    "project_id": "aplicatiemobile-4bbf7",
+    "storage_bucket": "aplicatiemobile-4bbf7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:519342639147:android:f6c66d9feac78441f9826e",
+        "android_client_info": {
+          "package_name": "com.example.licenta_aplicatie"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOxcrNswOiJrHrIhqZQgUzAAA6I_q69B4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:519342639147:android:a5a14a9183fe8a45f9826e",
+        "android_client_info": {
+          "package_name": "com.example.smart_home"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOxcrNswOiJrHrIhqZQgUzAAA6I_q69B4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,15 @@
+# Foldere generate de Flutter/Dart
+build/
+.dart_tool/
+
+# Fisiere specifice IDE-urilor
+.idea/
+*.iml
+
+# Fisiere generate automat
+.flutter-plugins
+.flutter-plugins-dependencies
+.metadata
+
+# Lock file  
+pubspec.lock
