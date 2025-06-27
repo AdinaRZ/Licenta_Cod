@@ -33,12 +33,12 @@ Licenta/
 │   ├── assets/
 │   └── pubspec.yaml
 │
-├── cod_embarcat/             # Codul pentru ESP32, ESP8266 și Arduino Mega
+├── Cod_Hardware/             # Codul pentru ESP32, ESP8266 și Arduino Mega
 │   ├── esp32/
 │   ├── esp8266/
 │   └── arduino_mega/
 │
-├── hardware/
+├── Schema_hardware/
 │   └── schema_electrica.pdf  # Schema electrică a sistemului complet
 │
 ├── documentatie/
