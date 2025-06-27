@@ -1,5 +1,5 @@
 
-# AS Home – Sistem Automatizat de Monitorizare și Control
+# AS Home – AUTOMATIZAREA UNEI LOCUINȚE PRIN CONTROL DE LA DISTANȚĂ UTILIZÂND O APLICAȚIE
 
 ## Descriere generală
 
